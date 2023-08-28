@@ -1,5 +1,4 @@
-The challenge
-Users should be able to:
+###Users should be able to:
 
 View the optimal layout for the app depending on their device's screen size
 See hover states for all interactive elements on the page
@@ -24,3 +23,9 @@ Updating a task's status will move the task to the relevant column.
 Bonus:
 
 The tasks can be dragged and dropped to a new column.
+
+Built with
+TailwindCSS - CSS Framework
+Drag and Drop API
+React - JS library
+Redux - State management tool
